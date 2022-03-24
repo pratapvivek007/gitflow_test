@@ -1,1 +1,2 @@
 this is a hotfix txt
+this is a second line from hotfix branch
