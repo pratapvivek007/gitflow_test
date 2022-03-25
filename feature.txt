@@ -3,3 +3,4 @@ this is second line from feature branch
 this is third line form feature branch
 this is fourth line from feature branch
 this is fifth line form feature branch
+this is 6th line form feature branch
